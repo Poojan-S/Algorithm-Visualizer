@@ -1,12 +1,3 @@
-<h1 align="center">
-    Sorting Visualizer
-</h1>
-
-## Responsive visualizer built using React for popular algorithms
-
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/"><img src="cover.png" alt="cover" /></a>
-
----
 
 ## This repo is an attempt to help in learning popular sorting algorithms by visualization
 
